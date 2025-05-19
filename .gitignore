@@ -1,3 +1,6 @@
 venv/
+Datasets/
+4. NLP_Transformer_LLM/bert-base-uncased-sentiment-model/
+4. NLP_Transformer_LLM/birt_base_train_dir/
 ssh
 ssh.pub
