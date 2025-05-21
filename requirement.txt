@@ -1,1 +1,5 @@
 seaborn
+transformers
+datasets
+torch
+evaluate
