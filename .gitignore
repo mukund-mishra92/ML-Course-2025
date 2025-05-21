@@ -2,5 +2,10 @@ venv/
 Datasets/
 4. NLP_Transformer_LLM/bert-base-uncased-sentiment-model/
 4. NLP_Transformer_LLM/birt_base_train_dir/
+5_ANN_CNN_RNN/hamlet.txt
+5_ANN_CNN_RNN/next_word_lstm.h5
+5_ANN_CNN_RNN/tokenizer.pickle
 ssh
 ssh.pub
+Datasets/
+Models/
